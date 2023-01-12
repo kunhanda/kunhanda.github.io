@@ -1,0 +1,28 @@
+header.brand h1 {
+    margin: 0;
+    font-weight: 400;
+    color: rgb(74, 55, 43);
+    font-size: 60px;
+}   
+
+/* unvisited link */
+a:link {
+    color: brown;
+    text-decoration: none;
+}
+  /* visited link */
+a:visited {
+    color: brown;
+    text-decoration: none;
+}
+  /* mouse over link */
+a:hover {
+    color: burlywood;
+    text-decoration: none;
+    /*filter: brightness(150%);*/
+}
+
+/* selected link */
+a:active {
+    color: burlywood;
+}

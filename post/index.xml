@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on kunal handa</title>
+    <link>https://kunhanda.github.io/post/</link>
+    <description>Recent content in Posts on kunal handa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jan 2023 17:16:44 -0800</lastBuildDate><atom:link href="https://kunhanda.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://kunhanda.github.io/post/pic/</link>
+      <pubDate>Tue, 10 Jan 2023 17:16:44 -0800</pubDate>
+      
+      <guid>https://kunhanda.github.io/post/pic/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title># about</title>
+      <link>https://kunhanda.github.io/post/about/</link>
+      <pubDate>Tue, 10 Jan 2023 17:16:44 -0800</pubDate>
+      
+      <guid>https://kunhanda.github.io/post/about/</guid>
+      <description>Hi, I&amp;rsquo;m Kunal! I&amp;rsquo;m a senior at Brown University concentrating in computer science and linguistics. Below are some of the projects I have recently worked on plus some extra tid-bits I have dabbled in over the past few years. Feel free to poke around!
+If any of this looks interesting or you just want to chat, feel free to reach out at: kunal [underscore] handa [at] brown [dot] edu.</description>
+    </item>
+    
+    <item>
+      <title># at the moment</title>
+      <link>https://kunhanda.github.io/post/wip/</link>
+      <pubDate>Tue, 10 Jan 2023 17:16:44 -0800</pubDate>
+      
+      <guid>https://kunhanda.github.io/post/wip/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title># past projects</title>
+      <link>https://kunhanda.github.io/post/projects/</link>
+      <pubDate>Tue, 10 Jan 2023 17:16:44 -0800</pubDate>
+      
+      <guid>https://kunhanda.github.io/post/projects/</guid>
+      <description>Task Ambiguity in Humans and Language Models Alex Tamkin*, Kunal Handa*, Avash Shrestha, Noah Goodman. Pending in the International Conference on Learning Representations (ICLR), 2023.
+Peekbank: An open, large-scale repository for developmental eye-tracking data of children’s word recognition Martin Zettersten… Kunal Handa… &amp;amp; Michael C. Frank. In Behavior Research Methods (BRM), 2022.</description>
+    </item>
+    
+    <item>
+      <title># musings</title>
+      <link>https://kunhanda.github.io/post/writing/</link>
+      <pubDate>Mon, 09 Jan 2023 17:16:44 -0800</pubDate>
+      
+      <guid>https://kunhanda.github.io/post/writing/</guid>
+      <description>The Role of Technology in Elections: The Voyage of Voters’ Data Kunal Handa. In Conduit, the Brown University Computer Science Annual Magazine, Volume 32, 2022.</description>
+    </item>
+    
+  </channel>
+</rss>
